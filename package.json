@@ -1,11 +1,22 @@
 {
-  "name": "my-npm-module",
+  "name": "@cryptosnowprince-simple/my-npm-module",
   "version": "1.0.0",
   "description": "my first npm module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "cryptosnowprince <topdirector2017@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoSnowPrince/NpmModuleSimple.git"
+  },
+  "keywords": [
+    "goosebumps"
+  ],
+  "bugs": {
+    "url": "https://github.com/CryptoSnowPrince/NpmModuleSimple/issues"
+  },
+  "homepage": "https://github.com/CryptoSnowPrince/NpmModuleSimple#readme"
 }
