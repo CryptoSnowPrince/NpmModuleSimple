@@ -1,6 +1,6 @@
 {
   "name": "@cryptosnowprince-simple/my-npm-module",
-  "version": "1.0.0",
+  "version": "0.0.5",
   "description": "my first npm module",
   "main": "index.js",
   "scripts": {
